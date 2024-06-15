@@ -45,7 +45,7 @@ Run DB table migration Command
   npm run migrate
   npx sequelize-cli db:seed:all
 ```
-Users table will created
-Default seeders imported few users into table.verify tables and users by refress pgAdmin
+Users table will be create in postgres Admin.
+Default seeders will importe few users into table.For verify tables and users by refresh pgAdmin
 
 #Completed ORM Setup
