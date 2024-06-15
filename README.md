@@ -36,9 +36,9 @@ Run Command
 ```
 
 Go to postgres pgAdmin
-
-Create Databse My-account manually due to security and permission reason.
-
+```bash
+Create Database My-account manually due to security and permission reason.
+```
 Run DB table migration Command
 
 ```bash
